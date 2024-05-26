@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
 }
 global.email = 'vajirarathnayaka891@gmail.com'
 global.github = 'https://github.com/VajirTech/VAJIRA-MD'
-global.location = 'Srilanka Colombo'
+global.location = 'Pakistan Sindh'
 global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
 global.author = '𝙑𝘼𝙅𝙄𝙍𝘼 𝙈𝘿';
 global.mess = {
@@ -28,7 +28,7 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=TZskwKDY#2CcGDB3wz9Szh_0V1frD5wXD4CxbZJC_GAVpQo2zI2w',
 POSTGRESQL_URL: process.env.POSTGRESQL_URL || 'postgres://izumimd_meje_user:0Vhm5vKGZ7ORt2FlJBQf4d6EtRdeuE8z@dpg-cn0o2imn7f5s73fa46q0-a.frankfurt-postgres.render.com/izumimd_meje',
 PREFIX:  process.env.PREFIX || ['.'] ,
-LANG:  process.env.LANG || 'SI' ,    
+LANG:  process.env.LANG || 'EN' ,    
 ANTI_BAD: process.env.ANTI_BAD || false  ,
 AUTO_REACT:  process.env.AUTO_REACT  || false  ,    
 AUTO_TYPING:  process.env.AUTO_TYPING  || false  ,
